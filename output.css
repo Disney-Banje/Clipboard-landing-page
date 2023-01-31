@@ -672,7 +672,7 @@ html {
 }
 
 .bg-mobile{
-  background-image: url(../dist/images/bg-header-mobile.png);
+  background-image: url(images/bg-header-mobile.png);
 }
 
 .bg-contain{
@@ -951,7 +951,7 @@ html {
   }
 
   .md\:bg-desktop{
-    background-image: url(../dist/images/bg-header-desktop.png);
+    background-image: url(images/bg-header-desktop.png);
   }
 
   .md\:bg-no-repeat{
